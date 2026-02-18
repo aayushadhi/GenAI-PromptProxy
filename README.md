@@ -4,6 +4,7 @@ This project is a prompt proxy architecture. Utilizes Huggingface api to prompt 
 
 ### Instruction
 Run server from the root as:
-node server.ja
-
+'''
+node server.js
+'''
 And open index.html in a browser. 
